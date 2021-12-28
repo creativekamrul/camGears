@@ -6,6 +6,6 @@ This is a eCommerce application built with React.
 2. Bootstrap
 3. Context API
 4. React Router 6
-5. etc.
+5. React Icons
 
 # Developed By: Kamrul Islam
