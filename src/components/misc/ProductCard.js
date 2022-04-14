@@ -12,7 +12,7 @@ const ProductCard = ({ productImg }) => {
         <h2 className="product-name"><Link to="">Product Name</Link></h2>
         <h2 className="product-price">$ 200.00</h2>
         <div className="product-btns">
-        <Link className="product-btn product-buy-btn" to="/all-product/1">
+        <Link className="product-btn product-buy-btn" to="/all-products/1">
           Buy Now
         </Link>
         <button className="product-btn product-atc-btn">Add to Cart</button>

@@ -316,3 +316,35 @@ a {
   font-size: 15px;
 }
 /* Footer CSS Ends */
+/* Single Product Page Start */
+
+.product-single-data .product-btns {
+  display: flex;
+  justify-content: space-between;
+}
+.product-single-data .product-btn {
+  padding: 12px 35px;
+  border: none;
+  color: var(--color7);
+  border-radius: 6px;
+  transition: 0.15s all ease-in;
+  font-size: 18px;
+  font-weight: 500;
+  display: block;
+}
+.product-single-data .product-btn.product-buy-btn {
+  background-color: var(--color2);
+}
+.product-single-data .product-btn.product-buy-btn:hover {
+  background-color: var(--color1);
+}
+
+.product-single-data .product-btn.product-atc-btn {
+  background-color: var(--color4);
+}
+.product-single-data .product-btn.product-atc-btn:hover {
+  background-color: var(--color6);
+}
+
+
+/* Single Product Page Ends  */
